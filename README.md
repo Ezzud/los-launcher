@@ -3,6 +3,7 @@
 
 [![Size](https://img.shields.io/github/last-commit/Ezzud/los-launcher)]()\
 [![release](https://img.shields.io/github/downloads/Ezzud/los-launcher/total)]()\
+[![size](https://img.shields.io/github/repo-size/Ezzud/los-launcher)]()\
 <br>
 
 
